@@ -1,4 +1,4 @@
-#language: en
+#language: pt
 
 Feature: What's the pizza of the day
 
